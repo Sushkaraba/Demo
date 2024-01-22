@@ -2,9 +2,4 @@ MSRIT
 <<<<<<< HEAD
 Welcome
 =======
-modified by dev2
-<<<<<<< HEAD
->>>>>>> f11304dfe0932df5754629a6f8acfdc10fa7aa87
-=======
-One
->>>>>>> 44ccafe7c2dce0f1a4341aa93ce22ceed5848146
+
