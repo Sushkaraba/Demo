@@ -1,8 +1,4 @@
 hello
 sushiii
 modified by dev1
-<<<<<<< HEAD
-Smileeeeeee
-=======
-One
->>>>>>> 44ccafe7c2dce0f1a4341aa93ce22ceed5848146
+
