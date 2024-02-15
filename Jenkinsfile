@@ -17,6 +17,11 @@ pipeline {
                 echo 'Hello World'
             }
         }
+        stage('D') {
+            steps {
+                echo 'Hello World'
+            }
+        }
     }
     post
     {
